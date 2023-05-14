@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá! Eu sou o Victor Moraes 🖐️
 
-<!--
-**VictorMoraes01/VictorMoraes01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/website?label=Site.com&style=for-the-badge&url=https://site.com/)](linkdosite)
+[![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](linkdocanal)
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victor_moraes_dev/)
 
-Here are some ideas to get you started:
+![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorMoraes01&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMoraes01)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que uso no meu dia
+
+<div style="display: inline_block"><br/>
+     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+</div>
